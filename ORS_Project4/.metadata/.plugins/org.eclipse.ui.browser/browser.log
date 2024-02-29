@@ -1,0 +1,457 @@
+
+Nov 21, 2023 18:23:52.06 NEW SESSION
+Nov 21, 2023 18:23:52.06 [9720:6052:1121/182352.065:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 23, 2023 14:55:22.82 NEW SESSION
+Nov 23, 2023 14:55:22.82 [2816:6336:1123/145522.820:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 14:55:47.46 [2816:6336:1123/145547.464:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 14:55:54.01 [2816:2392:1123/145554.012:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Nov 23, 2023 14:56:31.55 [2816:6336:1123/145631.554:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 14:57:52.80 [2816:6336:1123/145752.801:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 15:01:17.14 [2816:6336:1123/150117.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 23, 2023 15:01:47.56 [2816:6336:1123/150147.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 23, 2023 15:01:51.51 [2816:6336:1123/150151.514:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 23, 2023 15:02:05.98 [2816:6336:1123/150205.988:ERROR:checkin_request.cc(289)] Failed to parse checkin response. HTTP Status: 502. Retrying.
+
+Nov 25, 2023 23:07:39.42 NEW SESSION
+Nov 25, 2023 23:07:39.42 [3540:344:1125/230739.424:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:08:07.80 [3540:344:1125/230807.798:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:09:02.48 [3540:344:1125/230902.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:10:58.28 [3540:344:1125/231058.287:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:13:56.84 [3540:344:1125/231356.840:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:19:54.29 [3540:344:1125/231954.295:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:31:11.46 [3540:344:1125/233111.460:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 25, 2023 23:41:11.47 [3540:344:1125/234111.471:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 24:25:25.48 [3540:344:1126/002525.479:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 24:35:25.48 [3540:344:1126/003525.484:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 19:32:17.05 [3540:344:1126/193217.058:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 19:32:17.25 [3540:344:1126/193217.253:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 19:32:51.38 [3540:17224:1126/193251.385:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Nov 26, 2023 19:45:57.23 [3540:344:1126/194557.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 19:55:57.25 [3540:344:1126/195557.255:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 20:05:57.27 [3540:344:1126/200557.272:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 20:16:31.59 [3540:344:1126/201631.592:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 20:56:35.77 [3540:344:1126/205635.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 22:02:57.19 [3540:344:1126/220257.193:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 22:12:57.21 [3540:344:1126/221257.211:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 22:22:57.22 [3540:344:1126/222257.227:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 22:32:57.23 [3540:344:1126/223257.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 23:05:01.97 [3540:344:1126/230501.975:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 23:15:01.99 [3540:344:1126/231501.990:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 23:25:01.99 [3540:344:1126/232501.992:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 23:35:02.00 [3540:344:1126/233502.006:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 23:45:02.02 [3540:344:1126/234502.019:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 26, 2023 23:57:12.85 [3540:344:1126/235712.853:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 27, 2023 24:07:12.87 [3540:344:1127/000712.870:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 27, 2023 24:17:12.87 [3540:344:1127/001712.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 27, 2023 23:59:30.10 NEW SESSION
+Nov 27, 2023 23:59:30.10 [24080:8636:1127/235930.096:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 27, 2023 23:59:30.12 [24080:8636:1127/235930.129:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:30.23 [24080:8636:1127/235930.235:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:30.23 [24080:8636:1127/235930.235:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:30.23 [24080:8636:1127/235930.235:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:53.30 [24080:8636:1127/235953.306:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:53.30 [24080:8636:1127/235953.306:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 27, 2023 23:59:53.47 [24080:8636:1127/235953.475:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:53.99 [24080:8636:1127/235953.994:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 27, 2023 23:59:56.64 [24080:8636:1127/235956.644:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:00:01.55 [24080:21452:1128/000001.557:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Nov 28, 2023 24:00:19.07 [24080:8636:1128/000019.079:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 28, 2023 24:00:43.77 [24080:8636:1128/000043.769:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:00:52.25 [24080:8636:1128/000052.250:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:00:55.30 [24080:8636:1128/000055.302:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:00:55.30 [24080:8636:1128/000055.304:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:01:28.57 [24080:8636:1128/000128.572:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 24:02:39.72 [15628:13268:1128/000239.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 28, 2023 24:02:39.74 [15628:13268:1128/000239.744:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:02:39.75 [15628:13268:1128/000239.757:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:02:39.76 [15628:13268:1128/000239.759:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Nov 28, 2023 24:02:39.76 [15628:13268:1128/000239.759:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Dec 02, 2023 16:00:38.93 NEW SESSION
+Dec 02, 2023 16:00:38.93 [1096:13848:1202/160038.932:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 02, 2023 16:45:58.85 [13924:15708:1202/164558.852:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 02, 2023 16:59:04.49 [13924:15708:1202/165904.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Dec 03, 2023 21:40:32.36 NEW SESSION
+Dec 03, 2023 21:40:32.36 [21728:29972:1203/214032.363:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 03, 2023 21:40:59.73 [21728:29972:1203/214059.731:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 03, 2023 21:41:04.11 [21728:21692:1203/214104.117:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Dec 03, 2023 21:41:41.67 [21728:29972:1203/214141.670:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 03, 2023 21:43:06.80 [21728:29972:1203/214306.804:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 03, 2023 21:46:52.68 [21728:29972:1203/214652.687:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 03, 2023 21:53:52.79 [21728:29972:1203/215352.791:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 06, 2023 11:00:40.03 NEW SESSION
+Dec 06, 2023 11:00:40.03 [7316:1936:1206/110040.031:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:00:40.03 [7316:1936:1206/110040.031:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:00:40.03 [7316:1936:1206/110040.031:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:00:40.03 [7316:1936:1206/110040.031:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:00:40.03 [7316:1936:1206/110040.031:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:02.84 [7316:1936:1206/110102.840:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:01:03.93 [7316:1936:1206/110103.932:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:07.04 [7316:1936:1206/110107.046:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:08.46 [7316:1936:1206/110108.461:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:09.02 [7316:1936:1206/110109.021:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:51.95 [7316:1936:1206/110151.950:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:54.91 [7316:1936:1206/110154.909:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:01:59.98 [7316:1936:1206/110159.979:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:02:03.76 [7316:1936:1206/110203.765:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:02:05.09 [7316:1936:1206/110205.093:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:03:33.23 [7316:1936:1206/110333.231:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:03:44.10 [7316:1936:1206/110344.107:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:03:47.10 [7316:1936:1206/110347.099:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:03:50.63 [7316:1936:1206/110350.636:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:03:55.17 [7316:1936:1206/110355.175:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:06:43.97 [7316:1936:1206/110643.978:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:06:44.74 [7316:1936:1206/110644.740:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:07:04.99 [7316:1936:1206/110704.992:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:07:05.57 [7316:1936:1206/110705.579:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:07:10.89 [7316:1936:1206/110710.893:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:12:41.22 [7316:1936:1206/111241.227:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:12:41.23 [7316:11088:1206/111241.235:ERROR:sharing_service.cc(209)] Device registration failed with transient error
+Dec 06, 2023 11:12:49.18 [7316:1936:1206/111249.186:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:12:55.15 [7316:1936:1206/111255.151:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:13:16.92 [7316:1936:1206/111316.925:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:14:35.46 [7316:1936:1206/111435.459:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:17:32.54 [7316:1936:1206/111732.540:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:17:55.51 [7316:1936:1206/111755.510:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:18:50.70 [7316:1936:1206/111850.705:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:20:40.54 [7316:1936:1206/112040.543:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:23:16.93 [7316:1936:1206/112316.937:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 11:23:57.83 [7316:1936:1206/112357.831:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:31:08.17 [7316:1936:1206/113108.174:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 11:31:08.17 [7316:11088:1206/113108.175:ERROR:sharing_service.cc(209)] Device registration failed with transient error
+Dec 06, 2023 11:33:16.95 [7316:1936:1206/113316.956:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 12:00:15.12 [7316:1936:1206/120015.120:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 12:00:15.14 [7316:1936:1206/120015.148:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 12:16:31.91 [7316:1936:1206/121631.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 12:16:31.92 [7316:1936:1206/121631.920:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 12:17:18.30 [7316:1936:1206/121718.307:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Dec 06, 2023 12:32:14.47 [7316:1936:1206/123214.475:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2023 12:32:14.47 [7316:1936:1206/123214.478:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Dec 11, 2023 22:45:50.92 NEW SESSION
+Dec 11, 2023 22:45:50.92 [7208:2132:1211/224550.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 22:46:12.31 [7208:2132:1211/224612.318:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 22:47:08.88 [7208:2132:1211/224708.888:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 22:48:47.56 [7208:2132:1211/224847.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 22:52:13.55 [7208:2132:1211/225213.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 22:58:34.36 [7208:2132:1211/225834.366:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 23:08:34.38 [7208:2132:1211/230834.379:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2023 23:18:34.39 [7208:2132:1211/231834.393:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 13, 2023 16:38:27.31 NEW SESSION
+Dec 13, 2023 16:38:27.31 [10000:26084:1213/163826.370:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 13, 2023 16:43:29.65 [10000:26084:1213/164329.104:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 13, 2023 16:43:34.67 [10000:26084:1213/164334.671:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -331
+
+Dec 13, 2023 19:15:53.81 NEW SESSION
+Dec 13, 2023 19:15:53.81 [21112:11508:1213/191553.808:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:16:27.63 [18768:21064:1213/191627.639:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:16:51.34 [18768:21064:1213/191651.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:17:38.95 [18768:21064:1213/191738.955:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:19:07.25 [18768:21064:1213/191907.255:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:22:51.77 [18768:21064:1213/192251.775:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:30:06.25 [18768:21064:1213/193006.251:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 19:40:06.25 [18768:21064:1213/194006.258:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 20:15:15.22 [18768:21064:1213/201515.225:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 20:25:15.23 [18768:21064:1213/202515.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 20:35:15.26 [18768:21064:1213/203515.262:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 20:45:15.27 [18768:21064:1213/204515.276:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 20:55:15.28 [18768:21064:1213/205515.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 21:05:15.30 [18768:21064:1213/210515.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 23:07:05.57 [18768:21064:1213/230705.573:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 23:17:05.58 [18768:21064:1213/231705.586:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 23:27:05.60 [18768:21064:1213/232705.598:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 23:37:05.61 [18768:21064:1213/233705.614:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 23:47:05.62 [18768:21064:1213/234705.627:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 23:57:05.64 [18768:21064:1213/235705.642:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 24:07:05.66 [18768:21064:1214/000705.659:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 24:17:05.67 [18768:21064:1214/001705.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 14, 2023 10:32:26.68 NEW SESSION
+Dec 14, 2023 10:32:26.68 [6428:6384:1214/103226.674:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 10:32:56.27 [6428:6384:1214/103256.271:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 10:33:43.46 [6428:6384:1214/103343.457:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 10:35:37.80 [6428:6384:1214/103537.800:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 10:39:20.25 [6428:6384:1214/103920.258:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 10:47:00.50 [6428:6384:1214/104700.501:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 10:57:00.56 [6428:6384:1214/105700.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 11:07:00.58 [6428:6384:1214/110700.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 11:17:00.63 [6428:6384:1214/111700.630:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 11:27:00.63 [6428:6384:1214/112700.635:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 11:37:00.64 [6428:6384:1214/113700.642:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 11:47:00.65 [6428:6384:1214/114700.650:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 12:35:05.41 [6428:6384:1214/123505.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 13:03:01.18 [6428:6384:1214/130301.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 14, 2023 13:12:04.44 [6428:6384:1214/131204.439:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 14, 2023 13:20:44.12 [6428:6384:1214/132044.125:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 14, 2023 13:21:50.40 [6428:6384:1214/132150.403:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 13:22:18.29 [6428:6384:1214/132218.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 13:22:36.60 [6428:6384:1214/132236.599:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 14, 2023 13:22:38.61 [6428:6384:1214/132238.612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 13:23:10.25 [6428:6384:1214/132310.250:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 14, 2023 13:23:31.58 [6428:6384:1214/132331.585:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 15:58:53.45 [23908:21180:1214/155852.506:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 14, 2023 15:58:57.29 [23908:21180:1214/155857.293:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 14, 2023 16:16:19.84 [23908:21180:1214/161619.845:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 14, 2023 22:57:58.73 NEW SESSION
+Dec 14, 2023 22:57:58.73 [292:18692:1214/225758.734:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 22:58:28.47 [292:18692:1214/225828.473:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 22:59:13.15 [292:18692:1214/225913.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:01:45.60 [292:18692:1214/230145.602:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:02:16.66 [292:18692:1214/230216.659:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:03:07.21 [292:18692:1214/230307.211:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:04:44.38 [292:18692:1214/230444.380:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:07:40.16 [292:18692:1214/230740.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:14:48.91 [292:18692:1214/231448.915:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:15:59.75 [292:8980:1214/231559.754:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 14, 2023 23:16:50.86 [292:8980:1214/231650.863:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 14, 2023 23:18:49.46 [292:8980:1214/231849.467:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 14, 2023 23:23:36.82 [292:8980:1214/232336.820:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 14, 2023 23:24:51.97 [292:18692:1214/232451.977:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:30:38.71 [292:8980:1214/233038.712:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 14, 2023 23:34:51.99 [292:18692:1214/233451.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:43:33.80 [2364:12108:1214/234333.808:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:44:02.84 [2364:12108:1214/234402.846:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:44:49.74 [2364:12108:1214/234449.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:46:13.88 [2364:12108:1214/234613.887:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:49:22.79 [2364:12108:1214/234922.790:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 14, 2023 23:56:43.55 [2364:12108:1214/235643.549:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 24:10:58.50 [2364:12108:1215/001058.501:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 24:21:01.56 [2364:12108:1215/002101.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 24:31:04.62 [2364:12108:1215/003104.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 24:41:04.63 [2364:12108:1215/004104.629:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 24:51:04.64 [2364:12108:1215/005104.647:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 01:01:04.65 [2364:12108:1215/010104.655:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 15, 2023 12:09:34.50 NEW SESSION
+Dec 15, 2023 12:09:34.50 [12400:25132:1215/120934.504:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 12:10:00.82 [12400:25132:1215/121000.824:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 12:10:45.35 [12400:25132:1215/121045.355:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 15, 2023 12:48:06.61 [25624:20844:1215/124806.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Dec 15, 2023 12:57:44.32 [25624:20844:1215/125744.325:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 15, 2023 13:00:38.78 [25624:20844:1215/130038.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Dec 15, 2023 13:00:40.84 [25624:20844:1215/130040.848:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 15, 2023 15:44:08.35 NEW SESSION
+Dec 15, 2023 15:44:08.35 [13624:25872:1215/154408.312:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 16, 2023 23:24:35.09 NEW SESSION
+Dec 16, 2023 23:24:35.09 [13388:16108:1216/232435.091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:24:55.50 [13388:16108:1216/232455.507:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:25:05.86 [13388:18196:1216/232505.863:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Dec 16, 2023 23:25:52.63 [13388:16108:1216/232552.636:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:27:29.62 [13388:16108:1216/232729.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:30:37.86 [13388:16108:1216/233037.868:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:34:56.65 [15576:25120:1216/233456.656:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:35:22.54 [15576:25120:1216/233522.541:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:36:06.96 [15576:25120:1216/233606.966:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:38:03.59 [15576:25120:1216/233803.589:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:41:08.60 [15576:25120:1216/234108.606:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 16, 2023 23:48:51.57 [15576:25120:1216/234851.576:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 19, 2023 23:11:08.89 NEW SESSION
+Dec 19, 2023 23:11:08.89 [25576:21148:1219/231108.894:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2023 23:11:29.51 [25576:21148:1219/231129.514:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 19, 2023 23:12:22.72 [25576:21148:1219/231222.718:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 20, 2023 16:50:29.47 NEW SESSION
+Dec 20, 2023 16:50:29.47 [2424:24484:1220/165029.464:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Dec 20, 2023 23:02:18.71 NEW SESSION
+Dec 20, 2023 23:02:18.71 [14248:14808:1220/230218.708:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2023 23:02:39.05 [14248:14808:1220/230239.054:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2023 23:03:34.92 [14248:14808:1220/230334.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2023 23:05:17.15 [14248:14808:1220/230517.157:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 20, 2023 23:07:58.91 [14248:14808:1220/230758.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 03:13:02.29 [14248:14808:1221/031302.291:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 12:42:38.16 [14248:14808:1221/124238.159:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 12:42:46.61 [14248:14808:1221/124246.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 12:44:50.66 [14248:14808:1221/124450.657:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 12:59:43.20 [14248:14808:1221/125943.202:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 21, 2023 13:04:35.48 [14248:14808:1221/130435.484:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 13:04:35.85 [14248:8860:1221/130435.857:ERROR:device_event_log_impl.cc(192)] [13:04:35.855] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 21, 2023 13:04:37.52 [14248:14808:1221/130437.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 13:05:05.59 [14248:14808:1221/130505.594:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 21, 2023 13:07:41.11 [14248:14808:1221/130741.115:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 21, 2023 13:07:47.09 [14248:14808:1221/130747.098:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -331
+Dec 21, 2023 13:09:18.02 [14248:14808:1221/130918.022:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 21, 2023 14:50:15.62 NEW SESSION
+Dec 21, 2023 14:50:15.62 [8996:23132:1221/145015.621:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 21, 2023 15:13:07.72 [8996:23132:1221/151307.723:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 21, 2023 15:25:04.53 [8996:23132:1221/152504.534:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 21, 2023 15:25:10.34 [8996:23132:1221/152510.344:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -331
+
+Dec 21, 2023 18:32:58.45 NEW SESSION
+Dec 21, 2023 18:32:58.45 [31096:24840:1221/183258.447:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 18:33:19.34 [31096:24840:1221/183319.345:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 18:34:02.01 [31096:24840:1221/183402.017:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 18:35:27.25 [31096:24840:1221/183527.256:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 18:38:16.17 [31096:24840:1221/183816.170:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 20:32:21.99 [31096:24840:1221/203221.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 20:42:22.00 [31096:24840:1221/204222.001:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 22:41:17.93 [9204:17632:1221/224117.936:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 22:41:47.84 [9204:17632:1221/224147.848:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 22:42:33.09 [9204:17632:1221/224233.091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 22:43:56.10 [9204:17632:1221/224356.101:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 21, 2023 23:04:00.52 [9204:17632:1221/230400.522:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 22, 2023 12:35:46.35 NEW SESSION
+Dec 22, 2023 12:35:46.35 [13936:24132:1222/123546.350:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 13:11:21.57 [13936:24132:1222/131121.572:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 22, 2023 13:21:03.61 [13936:24132:1222/132103.610:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 13:22:33.62 [13936:24132:1222/132233.616:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 13:23:02.92 [13936:24132:1222/132302.925:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 13:26:53.03 [13936:24132:1222/132653.035:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 13:28:25.24 [13936:24132:1222/132825.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 13:31:13.02 [13936:24132:1222/133113.020:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 22, 2023 15:24:19.33 NEW SESSION
+Dec 22, 2023 15:24:19.33 [25100:16108:1222/152419.334:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 15:24:48.14 [25100:16108:1222/152448.140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 15:25:33.70 [25100:16108:1222/152533.706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 15:27:03.66 [25100:16108:1222/152703.664:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 15:30:57.01 [25100:16108:1222/153057.009:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 15:36:27.88 [25100:16108:1222/153627.886:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 16:19:55.32 [25100:16108:1222/161955.323:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 16:29:55.33 [25100:16108:1222/162955.329:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 16:39:55.33 [25100:16108:1222/163955.332:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 16:49:55.34 [25100:16108:1222/164955.344:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 22, 2023 19:44:26.23 NEW SESSION
+Dec 22, 2023 19:44:26.23 [13340:8736:1222/194426.225:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 19:44:57.81 [13340:8736:1222/194457.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 19:45:55.78 [13340:8736:1222/194555.782:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 19:47:32.39 [13340:8736:1222/194732.390:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 19:50:56.92 [13340:10056:1222/195056.920:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 19:51:12.71 [13340:8736:1222/195112.712:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 19:51:48.05 [13340:10056:1222/195148.057:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 19:53:01.69 [13340:10056:1222/195301.698:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 19:54:49.06 [13340:10056:1222/195449.067:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 19:57:27.07 [13340:10056:1222/195727.068:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 19:58:34.71 [13340:8736:1222/195834.712:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 20:01:21.00 [13340:10056:1222/200121.003:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 20:07:08.82 [13340:10056:1222/200708.825:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 20:08:37.78 [13340:8736:1222/200837.782:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 20:26:54.42 [13340:8736:1222/202654.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 20:26:57.48 [13340:23872:1222/202657.484:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Dec 22, 2023 20:33:01.59 [13340:8736:1222/203301.592:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 20:36:57.50 [13340:10056:1222/203657.505:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 20:43:01.60 [13340:8736:1222/204301.598:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 20:46:57.52 [13340:10056:1222/204657.519:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 20:53:01.60 [13340:8736:1222/205301.603:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 20:56:57.53 [13340:10056:1222/205657.531:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 21:03:01.62 [13340:8736:1222/210301.622:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 21:06:57.55 [13340:10056:1222/210657.551:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 21:13:01.62 [13340:8736:1222/211301.628:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 21:16:57.56 [13340:10056:1222/211657.566:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 21:23:01.63 [13340:8736:1222/212301.632:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 21:26:57.58 [13340:10056:1222/212657.585:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 21:33:01.64 [13340:8736:1222/213301.639:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 21:36:57.60 [13340:10056:1222/213657.607:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 21:43:01.66 [13340:8736:1222/214301.664:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 21:46:57.62 [13340:10056:1222/214657.628:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 21:53:01.67 [13340:8736:1222/215301.669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 21:56:57.64 [13340:10056:1222/215657.640:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 22:03:01.68 [13340:8736:1222/220301.685:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 22:06:57.65 [13340:10056:1222/220657.652:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 22:13:01.69 [13340:8736:1222/221301.691:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 22:16:57.67 [13340:10056:1222/221657.676:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 22:23:01.71 [13340:8736:1222/222301.708:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 22:26:57.69 [13340:10056:1222/222657.695:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 22:33:01.71 [13340:8736:1222/223301.719:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 22:36:57.71 [13340:10056:1222/223657.710:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 22:43:01.73 [13340:8736:1222/224301.733:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 22:46:57.72 [13340:10056:1222/224657.726:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 22:53:01.74 [13340:8736:1222/225301.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 22:56:57.73 [13340:10056:1222/225657.738:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 23:03:01.75 [13340:8736:1222/230301.757:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 23:06:57.75 [13340:10056:1222/230657.750:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 23:13:01.76 [13340:8736:1222/231301.765:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 23:16:57.77 [13340:10056:1222/231657.774:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 23:23:01.76 [13340:8736:1222/232301.768:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 23:26:57.79 [13340:10056:1222/232657.790:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Dec 22, 2023 23:33:01.78 [13340:8736:1222/233301.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 23:36:57.81 [13340:10056:1222/233657.810:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+
+Dec 23, 2023 20:46:38.19 NEW SESSION
+Dec 23, 2023 20:46:38.20 [27456:30708:1223/204638.194:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 20:47:04.90 [27456:30708:1223/204704.903:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 20:47:52.68 [27456:30708:1223/204752.689:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 20:49:44.78 [27456:30708:1223/204944.788:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 20:52:54.87 [27456:30708:1223/205254.871:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 20:58:26.57 [27456:30708:1223/205826.578:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 21:08:26.59 [27456:30708:1223/210826.597:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 21:18:26.61 [27456:30708:1223/211826.614:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 22:05:54.33 [27456:30708:1223/220554.339:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 22:15:54.34 [27456:30708:1223/221554.348:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 22:25:54.36 [27456:30708:1223/222554.362:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 22:35:54.37 [27456:30708:1223/223554.377:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 22:45:54.38 [27456:30708:1223/224554.385:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 22:55:54.39 [27456:30708:1223/225554.389:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 23:05:54.40 [27456:30708:1223/230554.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 23:15:54.41 [27456:30708:1223/231554.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 23:25:54.41 [27456:30708:1223/232554.415:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 23:35:54.43 [27456:30708:1223/233554.430:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 24, 2023 24:04:57.27 [27456:30708:1224/000457.278:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 24, 2023 10:59:51.73 NEW SESSION
+Dec 24, 2023 10:59:51.73 [22192:29712:1224/105951.731:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 24, 2023 11:00:18.52 [22192:29712:1224/110018.523:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 24, 2023 11:01:05.99 [22192:29712:1224/110105.986:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 25, 2023 12:11:46.93 NEW SESSION
+Dec 25, 2023 12:11:46.93 [6388:16108:1225/121146.929:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:12:16.51 [6388:16108:1225/121216.513:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:13:08.84 [6388:16108:1225/121308.841:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:14:36.38 [6388:16108:1225/121436.381:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:18:02.86 [6388:16108:1225/121802.868:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:25:51.70 [6388:16108:1225/122551.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:35:51.71 [6388:16108:1225/123551.715:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:45:51.73 [6388:16108:1225/124551.730:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:55:51.73 [6388:16108:1225/125551.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:59:11.11 [6388:16108:1225/125911.110:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 17:05:50.01 [6388:16108:1225/170550.012:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 21:18:47.12 [6388:16108:1225/211847.126:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 21:28:47.13 [6388:16108:1225/212847.137:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 21:38:47.15 [6388:16108:1225/213847.152:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 21:48:47.16 [6388:16108:1225/214847.162:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 21:58:47.17 [6388:16108:1225/215847.168:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 22:08:47.18 [6388:16108:1225/220847.182:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 22:18:47.19 [6388:16108:1225/221847.198:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 22:28:47.20 [6388:16108:1225/222847.204:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 22:38:47.21 [6388:16108:1225/223847.213:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 22:48:54.99 [6388:16108:1225/224854.993:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 22:58:55.00 [6388:16108:1225/225855.005:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 23:27:40.52 [6388:16108:1225/232740.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 23:37:40.52 [6388:16108:1225/233740.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 23:47:40.53 [6388:16108:1225/234740.531:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 23:57:40.54 [6388:16108:1225/235740.543:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 24:07:40.56 [6388:16108:1226/000740.566:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 24:17:40.58 [6388:16108:1226/001740.581:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 24:27:40.58 [6388:16108:1226/002740.589:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 24:37:40.60 [6388:16108:1226/003740.603:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 24:47:40.61 [6388:16108:1226/004740.611:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 24:57:40.61 [6388:16108:1226/005740.615:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 01:07:40.63 [6388:16108:1226/010740.631:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 26, 2023 12:41:13.20 NEW SESSION
+Dec 26, 2023 12:41:13.20 [17400:18616:1226/124113.206:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:41:39.61 [17400:18616:1226/124139.617:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:41:43.41 [17400:16052:1226/124143.410:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Dec 26, 2023 12:42:20.01 [17400:18616:1226/124220.010:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:43:59.97 [17400:18616:1226/124359.976:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:45:35.13 [27072:27848:1226/124535.133:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:46:04.73 [27072:27848:1226/124604.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:46:44.96 [27072:27848:1226/124644.958:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:48:07.39 [27072:27848:1226/124807.389:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 26, 2023 12:51:12.72 [27072:27848:1226/125112.721:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Dec 26, 2023 15:08:18.69 NEW SESSION
+Dec 26, 2023 15:08:18.69 [18276:28092:1226/150818.687:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 26, 2023 15:08:24.56 [18276:28092:1226/150824.565:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2

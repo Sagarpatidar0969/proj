@@ -1,0 +1,11 @@
+127.0.0.1 - - [02/Dec/2023:15:59:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:15:59:15 +0530] "GET /ORS_Project4/servlet/com.rays.pro4.controller.UserRegistrationCtl HTTP/1.1" 404 927
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:15:59:15 +0530] "GET /ORS_Project4/img/customLogo.png HTTP/1.1" 404 927
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:15:59:45 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 651
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:34:48 +0530] "GET /ORS_Project4/servlet/com.rays.pro4.controller.UserRegistrationCtl HTTP/1.1" 404 927
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:34:48 +0530] "GET /ORS_Project4/img/customLogo.png HTTP/1.1" 404 927
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:34:51 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1261
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:34:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:41:32 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2547
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:42:10 +0530] "GET /ORS_Project4/UserRegistrationCtl HTTP/1.1" 200 5753
+0:0:0:0:0:0:0:1 - - [02/Dec/2023:16:42:10 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
